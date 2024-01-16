@@ -1,0 +1,7 @@
+﻿1>------ Build started: Project: Console1, Configuration: Debug Win32 ------
+1>Linking...
+1>Embedding manifest...
+1>
+1>Build log written to  "file://C:\Users\Fabrizio\Documents\apuntes varios\Cursos 2020\Fortran90 2020\Ejercitacion\clase 5\Console1\Console1\Debug\BuildLog.htm"
+1>Console1 - 0 error(s), 0 warning(s)
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
